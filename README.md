@@ -1,1 +1,1 @@
-# cssMemSlider
+https://kravchuk-st.github.io/cssMemSlider/cssMemSlider/
