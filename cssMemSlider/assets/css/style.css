@@ -151,9 +151,25 @@ input[type=radio]{
 }
 
 @media (max-width: 576px) {
+  .slider{
+    height: 85vh;
+  }
+
   .slider-body > *{
     width: 100%;
   }
 
+  .slider-body{
+    row-gap: 0.5rem;
+    flex-direction: column-reverse;
+  }
 
+  label span{
+    height: 0.5rem;
+  }
+
+  .slider-title .text{
+    padding-left: 0.5rem;
+    text-align: left;
+  }
 }
