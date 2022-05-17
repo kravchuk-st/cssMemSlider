@@ -52,6 +52,10 @@ label span{
   opacity: 0.7;
 }
 
+.bar:active span{
+  opacity: 0.1;
+}
+
 input[type=radio]{
   display: none;
 }
